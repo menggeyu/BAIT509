@@ -1,0 +1,18 @@
+1. Both are predicted to have the same productivity score of 75, but have the following probabilistic forecasts
+
+For candidate A, the advantage of this candidate is that this person is more stable in productivity since the probability of productivity around 75 is really high. Besides, the disadvantage is that is almost unlikely for this person to be high productive.
+
+If choose candidate B, the advantage of this candidate it is possible for this person to be really highly productive. However, the disadvantage is that this candidate is risky since it is also possible for this person to be lowly productive.
+
+I would like to choose the candidate A, since this person is more stable and can make sure the productivity level in the long term.
+
+
+2. For these two ‘non-overlapping’ candidates,
+
+I will choose candidate B since this candidate has higher average productivity level than A however the candidate B has high fluctuation since his productivity has a wider range than A.
+
+And for candidate A, his productivity is more stable since there is high probability that the productivity is around 60. However, the disadvantage is that the average productivity of this person is low.
+
+
+3. The bias of this probabilistic forecast is really high. The problem can be solved by reducing the number of predictors.
+
