@@ -1,0 +1,18 @@
+1. The decison rule: if x1<7.5, observation will be classified into A, otherwise will be classified into B 
+When x1=6 and x2=10, this new observation will be classified into A
+
+2.The margin is about 2
+
+3. Observation 6, 7, 8, 9, 10 will receive a penalty
+    The observations 6,7,8,9,10 are the support vectors, because they are the only ones to contribute a penalty
+
+4.Observation—6 ,7: penalty 0.25
+   Observation –9: penalty 1.75
+   Observation—10: penalty2.25
+   Observation—8: penalty 1.25
+
+Total penalty=5.75
+
+5. Yes
+
+6. The data is separable. The support vectors could be 4,9 and 8
